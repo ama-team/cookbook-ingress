@@ -1,0 +1,9 @@
+# IDE files
+.idea
+
+# Project files
+Berksfile.lock
+
+# Test kitchen
+.kitchen/
+.kitchen.local.yml
